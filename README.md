@@ -63,7 +63,7 @@ I will document each stage of this project, including installation procedures, c
 
 ### Daily Progress
 
-- [Day 00 — Project Planning](Daily-Progress/Day-00-Planning.md)
+- Daily-Progress/Day-00-planning.md
 
 Additional documentation will be added as the HomeLab develops.
 
