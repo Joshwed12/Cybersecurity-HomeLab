@@ -52,7 +52,7 @@ This repository will track my progress from initial planning through implementat
 | Day 00 | HomeLab Planning | In Progress |
 | Phase 1 | Raspberry Pi Setup | Not Started |
 | Phase 2 | Pi-hole Configuration | Not Started |
-| Phase 3 | Proxmox Installation | Not Started |
+| Phase 3 | Proxmox Installation | In Progress|
 | Phase 4 | Virtual Machine Deployment | Not Started |
 | Phase 5 | Active Directory Lab | Not Started |
 | Phase 6 | Network Security & Monitoring | Not Started |
